@@ -1,16 +1,18 @@
-💫 Hi 👋, I'm Wasid khan
-A passionate AI/ML Engineer & GenAI Enthusiast from India 🇮🇳
+# 👋 Hi, I'm Wasid Khan
 
-Email Me 👉 ✉️ wk757412@gmail.com For Collaboration/Projects or Anything Else. 😊
+### A passionate AI/ML Engineer & GenAI Enthusiast from India 🇮🇳
 
-🔭 I’m currently working on: AI/ML & Generative AI projects
-🌱 I’m currently learning: Advanced Machine Learning, GenAI & AI Agents
-👯 I’m looking to collaborate on: AI/ML, GenAI & Open Source projects
-🤔 I’m looking for help with: Building real-world AI solutions
-💬 Ask me about: Python, Machine Learning, Generative AI & AI Projects
-📫 How to reach me: Through GitHub or Email
-😄 Pronouns: Wasid
-⚡ Fun fact: Turning ideas into AI-powered projects 🤖🚀
+📧 Email Me 👉 wk757412@gmail.com For Collaboration, Projects or Anything Else.
+
+🔭 **I’m currently working on:** AI/ML & Generative AI projects  
+🌱 **I’m currently learning:** Advanced Machine Learning, GenAI & AI Agents  
+👯 **I’m looking to collaborate on:** AI/ML, GenAI & Open Source projects  
+🤔 **I’m looking for help with:** Building real-world AI solutions  
+💬 **Ask me about:** Python, Machine Learning, Generative AI & AI Projects  
+📫 **How to reach me:** GitHub or Email  
+😄 **Pronouns:** Wasid  
+⚡ **Fun fact:** Turning ideas into AI-powered projects 🤖🚀
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wasid-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
